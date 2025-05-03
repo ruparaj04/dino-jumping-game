@@ -1,5 +1,3 @@
-
-````markdown
 # 🦖 Dinosaur Jump Game (Pygame)
 
 A simple yet fun side-scrolling dinosaur jump game built with Python and Pygame. Inspired by the classic Chrome offline game, this version features running, jumping, ducking, multiple obstacle types (cactus, rock, bird), animated clouds, day/night cycle, increasing difficulty, and persistent high scores.
@@ -23,9 +21,9 @@ A simple yet fun side-scrolling dinosaur jump game built with Python and Pygame.
 - Python 3.7+
 - [Pygame](https://www.pygame.org/)  
   Install with:
-  ```bash
+ 
   pip install pygame
-````
+
 
 ---
 
@@ -54,26 +52,20 @@ A simple yet fun side-scrolling dinosaur jump game built with Python and Pygame.
 
 ## 🗃️ Project Structure
 
-```
+
 dino-jump/
 │
 ├── main.py               # Main game code
 ├── save/
 │   └── highscore.txt     # High score saved here
 └── README.md             # Game instructions
-```
+
 
 ---
 
 ## 🏆 High Score
 
 The high score is automatically saved in a `save/highscore.txt` file. If the directory doesn't exist, it will be created on the first run.
-
----
-
-## 📷 Screenshots
-
-*(Add your gameplay screenshots or GIFs here)*
 
 ---
 
@@ -98,7 +90,4 @@ Feel free to use or modify it in your own projects.
 Feel free to fork the repo and submit pull requests!
 Suggestions, feedback, and bug reports are welcome.
 
-```
-
-You can paste this directly into your GitHub repo’s `README.md` file. Want help creating a `LICENSE` file too?
 ```
